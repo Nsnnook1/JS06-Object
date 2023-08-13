@@ -8,3 +8,4 @@ const permission3 = { canCreate: false, canDelete: true };
 const permission4 = { canView: true };
 
 ```
+
